@@ -1,6 +1,6 @@
 public class BMI {
     public static void main(String[] args) {
-        double kg = 77.3;
+        double kg = 77;
         double m = 1.76;
 
         double bmi = kg / (kg * m);
